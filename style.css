@@ -1,0 +1,72 @@
+.container {
+    margin-top: 200px
+}
+#head{
+    font-size: 5vw;
+    font-weight:bold;
+    font-family: cursive;
+    background-color: #5cdaeb;
+}
+#body{
+    align-items: right;
+    padding:5vw;
+    background-color: rgb(255, 185, 79);
+}
+.btn:hover {
+    color: #fff;
+}
+
+.input-text:focus {
+    border-color: #e9ec2a;
+
+}
+
+.form-control {
+    border: 1px solid #000000;
+}
+
+#content{
+    padding: 5vw;
+    font-size: 1.25vw;
+    font-family:cursive;
+
+}
+
+#name{
+    font-size: 5vw;
+}
+
+#phonetic,#i{
+    font-size: 1.8vw;
+}
+#m{
+    font-size: 1.8vw;
+}
+
+#ps{
+    color: rgb(238, 27, 27);
+    font-size: 1.25vw;
+}
+
+#syn{
+    color: rgb(238, 26, 220);
+    font-size: 1.25vw;
+}
+
+#ant{
+    color: rgb(16, 101, 212);
+    font-size: 1.25vw;
+}
+
+#ex{
+    color: rgb(0, 255, 13);
+    font-size: 1.25vw;
+}
+
+#content{
+    background-color: rgb(187, 255, 223);
+}
+#msg{
+    align-items: center;
+    padding: 5vw;
+}
